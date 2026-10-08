@@ -17,11 +17,8 @@ A production-grade Python backend system that scrapes, validates, deduplicates, 
 ## 🛠️ Tech Stack
 - **Python 3.x**
 - **PostgreSQL & Psycopg 3**
-- **Pydantic**
-- **FastAPI & Uvicorn**
+- **FastAPI**
 - **Streamlit**
-- **Pytest**
-- **Tenacity (Exponential Backoff)**
 
 ---
 
