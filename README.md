@@ -2,6 +2,8 @@
 
 A production-grade Python backend system that scrapes, validates, deduplicates, and analyzes job listings from SerpAPI and Exa API.
 
+![Job Intelligence Dashboard](dashboard.png)
+
 ## 🌟 Features (Advanced Rubric & Extensions)
 - **Service-Repository Architecture**: Clean separation of concerns with atomic PostgreSQL transactions using `psycopg`.
 - **Dual Providers**: Supports both SerpAPI (Google Jobs) and Exa Neural Web Search using a Common Provider Interface.
