@@ -1,4 +1,4 @@
-# Advanced Job Intelligence Scraper 🚀
+# Internship Project: Advanced Job Intelligence Scraper 🚀
 
 A production-grade Python backend system that scrapes, validates, deduplicates, and analyzes job listings from SerpAPI and Exa API.
 
